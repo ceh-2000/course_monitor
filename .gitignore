@@ -1,0 +1,4 @@
+secrets.json
+email_setup.json
+*.idea/
+__pycache__/
